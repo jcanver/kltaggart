@@ -1,0 +1,15 @@
+html, body {
+  margin: 0 auto;
+  font-family: 'Yanone Kaffeesatz';
+  color: #111111;
+  background: #111111;
+}
+
+a {
+  color: #FFFFFF;
+}
+
+.gallery-item {
+  height: 300px;
+  background: orange;
+}
